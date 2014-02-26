@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileManipulation</string>
+    <string name="action_settings">Settings</string>
+	<string name="download_update">Download Zip</string>
+	<string name="download_title">Downloading Zippy</string>
+	<string name="download_description">This is a demo we are going over</string>
+	<string name="button_save">save</string>
+	<string-array name="item_dialog_list">
+		<item>Edit</item>
+		<item>Delete</item>
+	</string-array>
+		<string name="download_restore">Restore</string>
+</resources>

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+   
+    <item
+		android:id="@+id/download"
+		android:icon="@android:drawable/ic_menu_save"
+		android:showAsAction="ifRoom|withText"
+		android:title="@string/download_update" android:visible="false">
+	</item>
+	
+    <item
+		android:id="@+id/restore"
+		android:icon="@android:drawable/ic_menu_rotate"
+		android:showAsAction="ifRoom|withText"
+		android:title="@string/download_restore" android:visible="false">
+	</item>
+</menu>
